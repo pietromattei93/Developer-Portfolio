@@ -9,7 +9,7 @@ const Home: NextPage = () => {
     <>
       <Head >
         <meta name="google-site-verification" content="ZRiNC-2hv8i9jTUM7HJLDAwG8kLzuglcH01WHJrWE7c" />
-        <title>Pietro - Senior Tech Recruiter</title>
+        <title>Pietro - Technical Recruitment Manager</title>
         <link rel="icon" href="/favicon.ico" />
         <meta name="author" content="Pietro Mattei" />
         <meta name="keywords" content="ReactJS, NextJS, pietro mattei, pietro, mattei, recruiter, tech recruiter, technical recruiter, talent acquisition" />
