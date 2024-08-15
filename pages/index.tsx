@@ -26,7 +26,7 @@ const Home: NextPage = () => {
           content="Pietro - Senior Tech Recruiter"
         />
         <meta property="og:locale" content="en_GB" />
-        <title data-rh="true">Pietro - Senior Tech Recruiter</title>
+        <title data-rh="true">Pietro - Technical Recruitment Manager</title>
         <meta data-rh="true" property="og:type" content="website" />
         <meta
           data-rh="true"
