@@ -10,7 +10,7 @@ export default function Header() {
       <div className="header flex light-bg">
         <div>
           <h1 className="white">
-            Senior Tech Recruiter, currently at{" "}
+            Technical Recruitment Manager, currently at{" "}
             <a
               target="_blank" rel="noreferrer"
               style={{ fontSize: "1em" }}
