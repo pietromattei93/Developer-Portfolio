@@ -10,7 +10,7 @@ export default function Header() {
       <div className="header flex light-bg">
         <div>
           <h1 className="white">
-            Technical Recruitment Manager, currently at{" "}
+            Technical Recruiting Manager, currently at{" "}
             <a
               target="_blank"
               rel="noreferrer"
