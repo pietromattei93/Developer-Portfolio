@@ -12,7 +12,8 @@ export default function Header() {
           <h1 className="white">
             Technical Recruitment Manager, currently at{" "}
             <a
-              target="_blank" rel="noreferrer"
+              target="_blank"
+              rel="noreferrer"
               style={{ fontSize: "1em" }}
               href="https://neo4j.com/"
             >
